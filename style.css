@@ -1,0 +1,51 @@
+html {
+  font-family: "Open Sans";
+  background-color: #cabfb6;
+  margin: auto 300px 300px;
+  padding: 0px 100px;
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 10px 100px;
+}
+
+.Debate {
+  background-color: #c9793b;
+  padding: 10px 25px;
+  border: 0px;
+  border-radius: 5px;
+}
+
+h2 {
+  font-family: "Proza Libre";
+}
+
+h2,
+p,
+ul {
+  text-align: left;
+}
+
+.button {
+  text-align: center;
+}
+
+.android {
+  background-color: #a4c93b;
+  font-size: 20px;
+  padding: 5px 21px;
+  border-radius: 3px;
+}
+
+.apple {
+  background-color: #b6bcca;
+  font-size: 20px;
+  padding: 5px 30px;
+  border-radius: 3px;
+}
+
+button:hover {
+  cursor: pointer;
+}
